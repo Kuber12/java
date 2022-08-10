@@ -7,7 +7,7 @@ public class CircleDemo{
         System.out.println("Perimeter = "+ cir.calcPerimeter());
     }
 }
-public class Circle {
+class Circle {
     double radius;
     final double PI = 3.1416; // to make it a constant unchangeable//
 
